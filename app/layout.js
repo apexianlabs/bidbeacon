@@ -1,4 +1,5 @@
 export const metadata = {
+  icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
   title: 'BidBeacon — Real-time auction alerts — never miss a winning bid',
   description: 'Real-time auction alerts — never miss a winning bid',
 }
